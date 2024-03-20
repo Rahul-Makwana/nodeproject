@@ -1,0 +1,5 @@
+services:
+  redis:
+    image: "node_img"
+    ports:
+            - "3000:3000"
